@@ -7,7 +7,7 @@ OmniAuth strategy for Eve Online.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-eve'
+gem 'omniauth-eve', github: 'mstark/omniauth-eve'
 ```
 
 And then execute:
